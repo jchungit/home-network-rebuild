@@ -1,4 +1,4 @@
-# 01 — BGW320-500 Diagnosis: Identifying the Double NAT Problem
+# 01 — BGW320-500 Diagnosis: Identifying the Double NAT Problem & Faulty Modem
 
 ## Problem Statement
 
